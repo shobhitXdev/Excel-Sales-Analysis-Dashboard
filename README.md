@@ -17,13 +17,15 @@ This project involves a comprehensive analysis of sales data for **ABC Limited**
 ## 📸 Dashboard Preview
 
 ### 1. Static Overview
+<img width="1790" height="908" alt="dynamic_dashboard" src="https://github.com/user-attachments/assets/7676f0d3-7289-4ceb-a58f-e186b48002c6" />
 
-<img width="1791" height="910" alt="ABC lim  Dashboard" src="https://github.com/user-attachments/assets/9228387f-7e73-41e1-bddd-76660dc9fc2c" />
+
 
 Full overview of the ABC Limited Sales Dashboard.
 
 ### 2. Dynamic Filtering (Online Store Focus)
-<img width="1790" height="908" alt="dynamic_dashboard" src="https://github.com/user-attachments/assets/e4f3b63c-3a76-40c0-b0cc-9229cbc4c284" />
+
+<img width="1791" height="910" alt="ABC lim  Dashboard" src="https://github.com/user-attachments/assets/e2853a73-a32c-403a-88c7-d017cf23fb2c" />
 
 Dashboard reacting to 'Online' Store_Type and 'Electronics' category filters.
 
